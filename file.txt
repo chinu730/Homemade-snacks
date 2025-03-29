@@ -1,0 +1,41 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homemade Snacks by Mom</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .container { max-width: 600px; margin: auto; }
+        .product { border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 10px; }
+        .order-btn { background: #ff9800; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Mom's Homemade Snacks</h1>
+        <p>Delicious homemade Chakli, Laddus, and Sev Chivda!</p><div class="product">
+        <h2>Chakli</h2>
+        <p>Crispy, crunchy, and made with love.</p>
+        <a href="https://wa.me/yourwhatsappnumber" class="order-btn">Order Now</a>
+    </div>
+    
+    <div class="product">
+        <h2>Laddus</h2>
+        <p>Sweet and nutritious, perfect for any occasion.</p>
+        <a href="https://wa.me/yourwhatsappnumber" class="order-btn">Order Now</a>
+    </div>
+    
+    <div class="product">
+        <h2>Sev Chivda</h2>
+        <p>A tasty tea-time snack with the perfect crunch.</p>
+        <a href="https://wa.me/yourwhatsappnumber" class="order-btn">Order Now</a>
+    </div>
+    
+    <h3>Contact Us</h3>
+    <p>📍 Panvel, India</p>
+    <p>📞 Call: 98765XXXXX</p>
+    <p><a href="https://instagram.com/yourbusiness">Follow us on Instagram</a></p>
+</div>
+
+</body>
+</html>
